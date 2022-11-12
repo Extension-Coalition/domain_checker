@@ -4,6 +4,6 @@
     "version": "1.0",
     "description": "Check domains quickly and easily",
     "action": {
-        "default_popup": ""
+        "default_popup": "src/index.html"
     }
 }
