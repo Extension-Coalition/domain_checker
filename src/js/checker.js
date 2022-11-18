@@ -9,6 +9,11 @@ function logSubmit(event) {
 
 form.addEventListener("submit", logSubmit);
 
+document.getElementById("form").addEventListener("submit", (event) => {
+  event.preventDefault();
+  response.innerHTML = "You submitted" + text.value;
+});
+
 // const options = {
 //   method: "GET",
 //   url: "https://domain-checker7.p.rapidapi.com/whois",
