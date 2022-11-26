@@ -1,0 +1,11 @@
+.container {
+  padding: 0 12px;
+  margin: 0 95px;
+}
+
+.btn__lg {
+  width: 240px;
+  height: 58px;
+  color: white;
+  border-radius: 5px;
+}
