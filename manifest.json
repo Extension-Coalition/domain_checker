@@ -1,9 +1,0 @@
-{
-    "manifest_version": 3,
-    "name": "Domain Checker",
-    "version": "1.0",
-    "description": "Check domains quickly and easily",
-    "action": {
-        "default_popup": "src/index.html"
-    }
-}
