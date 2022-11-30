@@ -92,3 +92,31 @@ footer {
   left: 0;
   z-index: -1;
 }
+
+@media screen and (max-width: 800px) {
+  html {
+    font-size: 14px;
+    line-height: 18px;
+  }
+  .underlay__top,
+  .underlay__bottom {
+    width: 342px;
+    height: 325px;
+  }
+
+  .logo {
+    font-size: 16px;
+  }
+  .hero > h1 {
+    font-size: 26px;
+  }
+
+  .cta__hero {
+    width: 155px;
+    height: 41.57px;
+  }
+
+  .footer__inner > h2 {
+    font-size: 20px;
+  }
+}
