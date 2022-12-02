@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Lexend:wght@400;500;600;700;800&display=swap");
+
+h1 {
+  font-family: Lexend;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+#search {
+  margin-bottom: 0.5rem;
+  border-radius: 1px;
+}
